@@ -1,0 +1,6 @@
+projectKey=Banking-proj
+serverUrl=http://54.243.24.212:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://54.243.24.212:9000/dashboard?id=Banking-proj
+ceTaskId=AY6Dc5ZTuXpTSDgRFKoB
+ceTaskUrl=http://54.243.24.212:9000/api/ce/task?id=AY6Dc5ZTuXpTSDgRFKoB
